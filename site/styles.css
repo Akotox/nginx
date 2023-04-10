@@ -16,8 +16,8 @@ header {
 main {
   display: flex;
   flex-direction: column;
-  justify-content: left;
-  align-items: center;
+  justify-content: center;
+  /* align-items: baseline-position; */
   padding: 20px;
   min-height: 100vh;
 }
