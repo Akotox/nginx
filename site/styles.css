@@ -17,7 +17,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* align-items: baseline-position; */
+  align-items: flex-start;
   padding: 20px;
   min-height: 100vh;
 }
